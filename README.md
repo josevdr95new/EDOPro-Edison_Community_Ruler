@@ -1,42 +1,47 @@
-**Edison Community Ruler**
+# Edison Community Ruler 📜
 
-What is the Project About? 🎯
-It’s a custom format for EDOPro designed to:
+A community-driven custom format for EDOPro, aiming to revive the strategic depth of the original Edison format with controlled integration of modern cards.
 
-Revive the spirit of the original Edison format (April 2010), renowned for its balance and strategic depth.
+## 🎯 What is the Project About?
 
-Incorporate modern cards in a controlled way (up to 2013 or later with caution), but without broken mechanics like Pendulum or Link.
+*   **Revive Edison Format:** Recreate the balanced and strategic gameplay of the original April 2010 Edison format.
+*   **Controlled Modernization:** Introduce modern cards (up to 2013, or later with caution) while avoiding power creep.
+*   **Community Empowerment:** Enable players to vote on allowed cards, bans, and rule changes.
 
-Empower the community: Players vote on allowed cards, bans, and rule evolution.
+## 🛠️ How Does It Work?
 
-How Does It Work? 🛠️
-Allowed Mechanics:
-✅ Synchro: The core of the original format.
-✅ Fusion: From classics (Gladiator Beasts) to balanced modern versions.
-❌ Excluded: XYZ, Pendulum, Link, and any post-2010 mechanics.
+### ✅ Allowed Mechanics:
 
-Allowed Cards:
-Initial Phase: Only cards released up to January 1, 2013.
+*   **Synchro:** The central mechanic of the original Edison format.
+*   **Fusion:** Includes classic Fusion monsters like Gladiator Beast fusions, as well as more modern, balanced options.
 
-Advanced Phase: Post-2013 cards (2014-2023) will be evaluated individually, provided they:
+### ❌ Excluded Mechanics:
 
-Do not disrupt the format’s balance.
+*   XYZ
+*   Pendulum
+*   Link
+*   Any mechanics introduced after 2010
 
-Empower weak archetypes or add diversity.
+### 🃏 Allowed Cards:
 
-Community Voting System:
-Dynamic Banlist: The community decides banned/limited cards through polls.
+*   **Initial Phase:** Only cards released up to January 1, 2013, are permitted.
+*   **Advanced Phase:** Cards released after 2013 (2014-2023) can be considered if they meet specific criteria:
+    *   Must not disrupt the format's balance.
+    *   Should empower weaker archetypes or increase overall diversity.
 
-New Card Proposals: Players can suggest modern cards, which are tested in trial duels before approval.
+### 🗳️ Community Voting System:
 
-Key Rules:
-No Powercreep: Overly fast effects or 1-card combo enablers are banned (e.g., generic searchers).
+*   **Dynamic Banlist:** The community votes on which cards should be banned or limited.
+*   **New Card Proposals:** Players can suggest the addition of modern cards, which are then tested in trial duels before a final decision is made.
 
-Interaction-First: Cards that require resource management and strategy are prioritized (e.g., Level 4 monsters with modest effects).
+### ⚙️ Key Rules:
 
-Practical Example ⚔️
-Player A: Uses a Six Samurai deck with modern supports (up to 2013) to quickly summon Synchros like Legendary Six Samurai - Shi En.
+*   **No Powercreep:** Cards with overly fast effects or that enable one-card combos (e.g., generic searchers) are prohibited.
+*   **Interaction-First:** Priority is given to cards that require resource management and strategic thinking (e.g., Level 4 monsters with moderate effects).
 
-Player B: Counters with updated Gladiator Beasts, using classic Fusions like Heraklinos alongside 2012 supports for consistency.
+## ⚔️ Practical Example
 
-Result: Slow, tactical duels where resource management and limited interruptions decide the winner.
+*   **Player A:** Plays a Six Samurai deck with modern support cards (up to 2013) to quickly summon Synchros like Legendary Six Samurai - Shi En.
+*   **Player B:** Plays an updated Gladiator Beast deck, using classic Fusions like Heraklinos alongside support cards from 2012 to improve consistency.
+*   **Result:** Tactical duels that emphasize resource management and strategic interruptions to determine the winner.
+
